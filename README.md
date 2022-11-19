@@ -1,2 +1,2 @@
-# basic-tech-landing-page
-Basic landing page developed to test implementations of HTML and CSS.
+# Basic Tech Landing Page
+Basic landing page for tech portfolio, fully functional, which has been developed to test implementations of Semantic HTML and CSS Flex.
