@@ -9,5 +9,5 @@
 Basic landing page for tech portfolio, fully functional, which has been developed to test implementations of Semantic HTML and CSS Flex.
 </p>
 
-## Built with
+## Built with:
 [![My Skills](https://skills.thijs.gg/icons?i=html,css)](https://skills.thijs.gg)
