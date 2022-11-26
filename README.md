@@ -6,7 +6,7 @@
 </div>
 <br />
 <p align="justify" >
-Basic landing page for tech portfolio, fully functional, which has been developed to test implementations of Semantic HTML and CSS Flex.
+Basic landing page for programmer portfolio, fully functional. You can reuse its code to test and understand basic HTML and CSS concepts like Semantic HTML or CSS Flex.
 </p>
 
 ## Built with:
