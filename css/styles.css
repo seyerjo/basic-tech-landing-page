@@ -77,8 +77,9 @@ header #header-text {
 #hero .info-container .my-info {
     margin-left: 20px;
     font-weight: bold;
-    width: calc(100% - 200px);
     -webkit-text-stroke: 0.25px black;
+    width: calc(100% - 200px);
+    text-align: justify;
 }
 
 #hero .info-container span {
