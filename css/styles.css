@@ -155,15 +155,13 @@ main #info-text {
 /* Footer Styles */
 
 footer {
+    display: flex;
+    justify-content: center;
     background-color: #1f1f1f;
     padding: 10px 50px;
 }
 
 footer #footer-text {
-    font-size: small;
-}
-
-footer .heart-icon {
-    font-size: large;
-    color: #e25555;
+    font-size: small;;
+    color: #ffffff;
 }
