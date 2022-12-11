@@ -6,8 +6,11 @@
 </div>
 <br />
 <p align="justify" >
-Basic landing page for programmer portfolio, fully functional. You can reuse its code to test and understand basic HTML and CSS concepts like Semantic HTML or CSS Flex.
+Basic landing page for web programmer portfolio, fully functional. You can reuse its code to test and understand basic HTML and CSS concepts like Semantic HTML or CSS Flex.
 </p>
+
+*| Recommended minimum resolution 1440 x 900 px. |*
+
 
 ## Built with:
 [![My Skills](https://skills.thijs.gg/icons?i=html,css)](https://skills.thijs.gg)
