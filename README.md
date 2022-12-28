@@ -9,7 +9,7 @@
 Basic landing page for web programmer portfolio, fully functional. You can reuse its code to test and understand basic HTML and CSS concepts like Semantic HTML or CSS Flex.
 </p>
 
-*| Recommended minimum resolution 1440 x 900 px. |*
+*| Recommended minimum resolution 1440 x 900 px. This Basic Version is not responsive. |*
 
 
 ## Built with:
